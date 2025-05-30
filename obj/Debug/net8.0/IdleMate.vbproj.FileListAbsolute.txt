@@ -1,0 +1,14 @@
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.AssemblyInfoInputs.cache
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.AssemblyInfo.vb
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.vbproj.CoreCompileInputs.cache
+C:\Users\DanDev\source\repos\idlemate\IdleMate\bin\Debug\net8.0\IdleMate.exe
+C:\Users\DanDev\source\repos\idlemate\IdleMate\bin\Debug\net8.0\IdleMate.deps.json
+C:\Users\DanDev\source\repos\idlemate\IdleMate\bin\Debug\net8.0\IdleMate.runtimeconfig.json
+C:\Users\DanDev\source\repos\idlemate\IdleMate\bin\Debug\net8.0\IdleMate.dll
+C:\Users\DanDev\source\repos\idlemate\IdleMate\bin\Debug\net8.0\IdleMate.pdb
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.dll
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\refint\IdleMate.dll
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.pdb
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\IdleMate.genruntimeconfig.cache
+C:\Users\DanDev\source\repos\idlemate\IdleMate\obj\Debug\net8.0\ref\IdleMate.dll
